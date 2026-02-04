@@ -218,7 +218,7 @@ clarityConfig: {
     
     // Language configuration
     languageConfig: {
-        defaultLanguage: 'en',
+        defaultLanguage: 'it',
         availableLanguages: [], // Only en and fr as requested
         showLanguageSelector: false,
         autoDetectLanguage: true
