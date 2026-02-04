@@ -2943,6 +2943,7 @@ function injectConsentHTML(detectedCookies, language = 'en') {
         background-color: ${config.modalStyle.body.background};
         overflow-y: auto;
         flex: 1;
+        color: black;
     }
 
     .cookie-category {
