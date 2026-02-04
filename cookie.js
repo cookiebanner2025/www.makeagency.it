@@ -169,7 +169,7 @@ clarityConfig: {
         
         // NEW: Restrict user interaction when banner is visible
         restrictInteraction: {
-            enabled: true,          // Turn this ON/OFF
+            enabled: false,          // Turn this ON/OFF
             preventScroll: false,    // Turn scroll blocking ON/OFF
             preventClick: true,     // Turn click blocking ON/OFF
             blurBackground: true,   // Turn blur effect ON/OFF
